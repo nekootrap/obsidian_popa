@@ -1,421 +1,370 @@
-# Unit 3. HISTORY OF COMPUTERS
+# Unit 4. Data Processing Concepts
 
-## Текст 1. THE FIRST CALCULATING DEVICES
+Ниже представлен полный перевод текстов и заданий 4-го юнита («Data Processing Concepts») из предоставленного учебного пособия В.А. Радовель «Английский язык. Основы компьютерной грамотности».
 
-| Original Text | Перевод |
-|--------------|---------|
-| Let us take a look at the history of computers that we know today. The very first calculating device used was the ten fingers of a man's hands. This, in fact, is why today we still count in tens and multiples of tens. | Давайте взглянем на историю компьютеров, которые мы знаем сегодня. Самым первым вычислительным устройством, которое использовалось, были десять пальцев человеческих рук. Именно поэтому сегодня мы всё ещё считаем десятками и кратными десяти числами. |
-| Then the abacus was invented. People went on using some form of abacus well into the 16th century, and it is still being used in some parts of the world because it can be understood without knowing how to read. | Затем были изобретены счёты. Люди продолжали использовать ту или иную форму счётов вплоть до XVI века, и они до сих пор используются в некоторых частях мира, потому что ими можно пользоваться, не умея читать. |
-| During the 17th and 18th centuries many people tried to find easy ways of calculating. J.Napier, a Scotsman, invented a mechanical way of multiplying and dividing, which is now the modern slide rule works. Henry Briggs used Napier's ideas to produce logarithm tables which all mathematicians use today. | В течение XVII и XVIII веков многие люди пытались найти лёгкие способы вычислений. Дж. Непер, шотландец, изобрёл механический способ умножения и деления, на котором основана работа современной логарифмической линейки. Генри Бригс использовал идеи Непера для создания таблиц логарифмов, которыми все математики пользуются сегодня. |
-| Calculus, another branch of mathematics, was independently invented by both Sir Isaak Newton, an Englishman, and Leibnitz, a German mathematician. The first real calculating machine appeared in 1820 as the result of several people's experiments. | Математический анализ, ещё одна ветвь математики, был независимо изобретён как сэром Исааком Ньютоном, англичанином, так и Лейбницем, немецким математиком. Первая настоящая вычислительная машина появилась в 1820 году как результат экспериментов нескольких людей. |
-| In 1830 Charles Babbage, a gifted English mathematician, proposed to build a general-purpose problem-solving machine that he called "the analytical engine". This machine, which Babbage showed at the Paris Exhibition in 1855, was an attempt to cut out the human being altogether, except for providing the machine with the necessary facts about the problem to be solved. He never finished this work, but many of his ideas were the basis for building today's computers. | В 1830 году Чарльз Бэббидж, талантливый английский математик, предложил построить универсальную машину для решения задач, которую он назвал «аналитическая машина». Эта машина, которую Бэббидж показал на Парижской выставке в 1855 году, была попыткой полностью исключить человека из процесса, за исключением предоставления машине необходимых фактов о решаемой задаче. Он так и не завершил эту работу, но многие из его идей легли в основу создания современных компьютеров. |
-| By the early part of the twentieth century electromechanical machines had been developed and were used for business data processing. Dr. Herman Hollerith, a young statistician from the US Census Bureau successfully tabulated the 1890 census. Hollerith invented a means of coding the data by punching holes into cards. He built one machine to punch the holes and others — to tabulate the collected data. Later Hollerith left the Census Bureau and established his own tabulating machine company. Through a series of merges the company eventually became the IBM Corporation. | К началу двадцатого века были разработаны электромеханические машины, которые использовались для обработки деловой информации. Доктор Герман Холлерит, молодой статистик из Бюро переписи населения США, успешно составил таблицы данных переписи 1890 года. Холлерит изобрёл способ кодирования данных путём пробивания отверстий в картах. Он построил одну машину для пробивания отверстий и другие — для занесения собранных данных в таблицы. Позже Холлерит покинул Бюро переписи и основал собственную компанию по производству табулирующих машин. В результате серии слияний эта компания в конечном итоге стала корпорацией IBM. |
-| Until the middle of the twentieth century machines designed to manipulate punched card data were widely used for business data processing. These early electromechanical data processors were called unit record machines because each punched card contained a unit of data. | До середины двадцатого века машины, предназначенные для обработки данных на перфокартах, широко использовались для обработки деловой информации. Эти ранние электромеханические процессоры данных назывались машинами с блочной записью, потому что каждая перфокарта содержала единицу данных. |
-| In the mid—1940s electronic computers were developed to perform calculations for military and scientific purposes. By the end of the 1960s commercial models of these computers were widely used for both scientific computation and business data processing. Initially these computers accepted their input data from punched cards. By the late 1970s punched cards had been almost universally replaced by keyboard terminals. Since that time advances in science have led to the proliferation of computers throughout our society, and the past is but the prologue that gives us a glimpse of the nature. | В середине 1940-х годов были разработаны электронные компьютеры для выполнения вычислений в военных и научных целях. К концу 1960-х годов коммерческие модели этих компьютеров широко использовались как для научных вычислений, так и для обработки деловой информации. Изначально эти компьютеры принимали входные данные с перфокарт. К концу 1970-х годов перфокарты были почти повсеместно заменены клавишными терминалами. С того времени достижения в науке привели к распространению компьютеров во всём нашем обществе, и прошлое — это лишь пролог, который даёт нам представление о природе вещей. |
+### Text 1. DATA PROCESSING AND DATA PROCESSING SYSTEMS
+**(Текст 1. Обработка данных и системы обработки данных)**
 
----
-
-## Ответы на вопросы к тексту 1
-
-1. **What was the very first calculating device?**
-   - The very first calculating device was the ten fingers of a man's hands.
-
-2. **What is the abacus?**
-   - The abacus is an early calculating tool that was invented after finger counting and was used well into the 16th century.
-
-3. **What is the modern slide rule?**
-   - The modern slide rule is a mechanical calculating device based on J. Napier's invention for multiplying and dividing.
-
-4. **Who gave the ideas for producing logarithm tables?**
-   - Henry Briggs used Napier's ideas to produce logarithm tables.
-
-5. **How did Newton and Leibnitz contribute to the problem of calculation?**
-   - They independently invented calculus, another branch of mathematics.
-
-6. **When did the first calculating machine appear?**
-   - The first real calculating machine appeared in 1820.
-
-7. **What was the main idea of Ch. Babbage's machine?**
-   - The main idea was to build a general-purpose problem-solving machine called "the analytical engine" that could work without human intervention except for providing necessary facts.
-
-8. **How did electromechanical machines appear and what were they used for?**
-   - They were developed by the early 20th century and used for business data processing, particularly for tabulating census data.
-
-9. **What means of coding the data did Hollerith devise?**
-   - Hollerith invented coding data by punching holes into cards (punched cards).
-
-10. **How were those electromechanical machines called and why?**
-    - They were called unit record machines because each punched card contained a unit of data.
-
-11. **What kind of computers appeared later?**
-    - Electronic computers appeared in the mid-1940s for military and scientific purposes.
-
-12. **What new had the computers of 1970s?**
-    - By the late 1970s, punched cards had been almost universally replaced by keyboard terminals.
+| English Text | Russian Translation |
+| :--- | :--- |
+| **Text 1. DATA PROCESSING AND DATA PROCESSING SYSTEMS** | **Текст 1. ОБРАБОТКА ДАННЫХ И СИСТЕМЫ ОБРАБОТКИ ДАННЫХ** |
+| The necessary data are processed by a computer to become useful information. In fact this is the definition of data processing. Data are a collection of facts — unorganized but able to be organized into useful information. Processing is a series of actions or operations that convert inputs into outputs. When we speak of data processing, the input is data, and the output is useful information. So, we can define data processing as a series of actions or operations that converts data into useful information. | Необходимые данные обрабатываются компьютером, чтобы стать полезной информацией. Фактически, это определение обработки данных. Данные — это совокупность фактов — неорганизованных, но способных быть организованными в полезную информацию. Обработка — это серия действий или операций, которые преобразуют входные данные в выходные. Когда мы говорим об обработке данных, входными данными являются данные, а выходными — полезная информация. Таким образом, мы можем определить обработку данных как серию действий или операций, которые преобразуют данные в полезную информацию. |
+| We use the term data processing system to include the resources that are used to accomplish the processing of data. There are four types of resources: people, materials, facilities, and equipment. People provide input to computers, operate them, and use their output. Materials, such as boxes of paper and printer ribbons, are consumed in great quantity. Facilities are required to house the computer equipment, people and materials. | Мы используем термин «система обработки данных», чтобы включить ресурсы, которые используются для выполнения обработки данных. Существует четыре типа ресурсов: люди, материалы, помещения (средства размещения) и оборудование. Люди обеспечивают ввод данных в компьютеры, управляют ими и используют результаты их работы. Материалы, такие как коробки с бумагой и ленты для принтеров, расходуются в большом количестве. Помещения необходимы для размещения компьютерного оборудования, людей и материалов. |
+| The need for converting facts into useful information is not a phenomenon of modern life. Throughout history, and even prehistory, people have found it necessary to sort data into forms that were easier to understand. For example, the ancient Egyptians recorded the ebb and flow of the Nile River and used this information to predict yearly crop yields. Today computers convert data about land and water into recommendations to farmers on crop planting. Mechanical aids to computation were developed and improved upon in Europe, Asia, and America throughout the seventeenth, eighteenth, and nineteenth centuries. Modern computers are marvels of an electronics technology that continues to produce smaller, cheaper, and more powerful components. | Потребность в преобразовании фактов в полезную информацию не является феноменом современной жизни. На протяжении всей истории, и даже доисторического периода, люди считали необходимым сортировать данные в формы, которые были легче для понимания. Например, древние египтяне записывали приливы и отливы реки Нил и использовали эту информацию для прогнозирования ежегодных урожаев. Сегодня компьютеры преобразуют данные о земле и воде в рекомендации для фермеров по посадке сельскохозяйственных культур. Механические средства для вычислений разрабатывались и совершенствовались в Европе, Азии и Америке на протяжении семнадцатого, восемнадцатого и девятнадцатого веков. Современные компьютеры являются чудесами электронной технологии, которая продолжает производить все более мелкие, дешевые и мощные компоненты. |
+| **Basic data processing operations** | **Основные операции обработки данных** |
+| Five basic operations are characteristic of all data processing systems: inputting, storing, processing, outputting, and controlling. They are defined as follows. | Пять основных операций характерны для всех систем обработки данных: ввод, хранение, обработка, вывод и управление. Они определяются следующим образом. |
+| Inputting is the process of entering data, which are collected facts, into a data processing system. Storing is saving data or information so that they are available for initial or for additional processing. Processing represents performing arithmetic or logical operations on data in order to convert them into useful information. Outputting is the process of producing useful information, such as a printed report or visual display. | Ввод — это процесс введения данных, которые представляют собой собранные факты, в систему обработки данных. Хранение — это сохранение данных или информации так, чтобы они были доступны для первоначальной или дополнительной обработки. Обработка представляет собой выполнение арифметических или логических операций над данными с целью преобразования их в полезную информацию. Вывод — это процесс создания полезной информации, такой как печатный отчет или визуальное отобраاжение на экране. |
+| Controlling is directing the manner and sequence in which all of the above operations are performed. | Управление — это направление способа и последовательности, в которой выполняются все вышеперечисленные операции. |
+| **Data storage hierarchy** | **Иерархия хранения данных** |
+| It is known that data, once entered, are organized and stored in successively more comprehensive groupings. Generally, these groupings are called a data storage hierarchy. The general groupings of any data storage hierarchy are as follows. | Известно, что данные, однажды введенные, организуются и хранятся во все более общих группах. Как правило, эти группы называются иерархией хранения данных. Общие группы любой иерархии хранения данных следующие. |
+| 1) Characters, which are all written language symbols: letters, numbers, and special symbols. 2) Data elements, which are meaningful collections of related characters. Data elements are also called data items or fields. 3) Records, which are collections of related data elements. 4) Files, which are collections of related records. A set of related files is called a data base or a data bank. | 1) Символы, которыми являются все знаки письменного языка: буквы, цифры и специальные символы. 2) Элементы данных, которые представляют собой осмысленные наборы связанных символов. Элементы данных также называются элементами данных или полями. 3) Записи, которые являются наборами связанных элементов данных. 4) Файлы, которые являются наборами связанных записей. Набор связанных файлов называется базой данных или банком данных. |
 
 ---
 
-## Английские эквиваленты словосочетаний (упр. 4)
+### Text 2. ADVANTAGES OF COMPUTER DATA PROCESSING
+**(Текст 2. Преимущества компьютерной обработки данных)**
 
-| Русское словосочетание | Английский эквивалент из текста |
-|----------------------|--------------------------------|
-| Вычислительное устройство | calculating device |
-| Легкий способ вычисления | easy ways of calculating |
-| Поэтому (вот почему) | This, in fact, is why |
-| Кратное десяти | multiples of tens |
-| Изобрести механический способ умножения и деления | invented a mechanical way of multiplying and dividing |
-| Логарифмическая линейка | slide rule |
-| Составить таблицы логарифмов | produce logarithm tables |
-| Математический анализ | Calculus |
-| Изобрести независимо (друг от друга) | independently invented |
-| В результате | as the result of |
-| Полностью исключить человека | cut out the human being altogether |
-| Кроме (за исключением) | except for |
-| Обработка деловой информации | business data processing |
-| Средство кодирования информации | a means of coding the data |
-| Перфокарты | punched cards |
-| Пробивать отверстия | punching holes |
-| Оформить собранные данные в таблицу | tabulate the collected data |
-| Работать с данными на перфокарте | manipulate punched card data |
-| Устройство, записывающее информацию блоками | unit record machines |
-| Единица информации | a unit of data |
-| Выполнять вычисления | perform calculations |
-| Для научных целей | for scientific purposes |
-| Клавишный терминал | keyboard terminals |
+| English Text | Russian Translation |
+| :--- | :--- |
+| **Text 2. ADVANTAGES OF COMPUTER DATA PROCESSING** | **Текст 2. ПРЕИМУЩЕСТВА КОМПЬЮТЕРНОЙ ОБРАБОТКИ ДАННЫХ** |
+| Computer-oriented data processing systems or just computer data processing systems are not designed to imitate manual systems. They should combine the capabilities of both humans and computers. Computer data processing systems can be designed to take advantage of four capabilities of computers. | Ориентированные на компьютер системы обработки данных или просто компьютерные системы обработки данных не предназначены для имитации ручных систем. Они должны сочетать возможности как человека, так и компьютера. Компьютерные системы обработки данных могут быть спроектированы так, чтобы использовать четыре преимущества компьютеров. |
+| 1. Accuracy. Once data have been entered correctly into the computer component of a data processing system, the need for further manipulation by humans is eliminated, and the possibility of error is reduced. Computers, when properly programmed, are also unlikely to make computational errors. Of course, computer systems remain vulnerable to the entry by humans of invalid data. | 1. Точность. Как только данные были правильно введены в компьютерный компонент системы обработки данных, необходимость в дальнейшей обработке человеком устраняется, и возможность ошибки снижается. Компьютеры, при правильном программировании, также вряд ли допустят вычислительные ошибки. Конечно, компьютерные системы остаются уязвимыми для ввода человеком неверных данных. |
+| 2. Ease of communications. Data, once entered, can be transmitted wherever needed by communications networks. These may be either earth or satellite-based systems. A travel reservations system is an example of a data communications network. Reservation clerks throughout the world may make an enquiry about transportation or lodgings and receive an almost instant response. Another example is an office communications system that provides executives with access to a reservoir of date, called a corporate data base, from their personal microcomputer work stations. | 2. Легкость связи. Данные, однажды введенные, могут передаваться туда, где это необходимо, через сети связи. Это могут быть наземные или спутниковые системы. Система бронирования путешествий является примером сети передачи данных. Клерки по бронированию по всему миру могут делать запросы о транспорте или жилье и получать почти мгновенный ответ. Другим примером является офисная система связи, которая предоставляет руководителям доступ к хранилищу данных, называемому корпоративной базой данных, с их персональных рабочих станций микрокомпьютеров. |
+| 3. Capacity of storage. Computers are able to store vast amounts of information, to organize it, and to retrieve it in ways that are far beyond the capabilities of humans. The amount of data that can be stored on devices such as magnetic discs is constantly increasing. All the while, the cost per character of data stored is decreasing. | 3. Емкость памяти. Компьютеры способны хранить огромные объемы информации, организовывать ее и извлекать способами, которые далеко превосходят возможности человека. Объем данных, который может быть сохранен на таких устройствах, как магнитные диски, постоянно увеличивается. При этом стоимость хранения одного символа данных снижается. |
+| 4. Speed. The speed, at which computer data processing systems can respond, adds to their value. For example, the travel reservations system mentioned above would not be useful if clients had to wait more than a few seconds for a response. The response required might be a fraction of a second. | 4. Скорость. Скорость, с которой системы компьютерной обработки данных могут реагировать, добавляет им ценности. Например, вышеупомянутая система бронирования путешествий была бы бесполезной, если бы клиентам приходилось ждать ответа более нескольких секунд. Требуемое время отклика может составлять долю секунды. |
+| Thus, an important objective in the design of computer data processing systems is to allow computers to do what they do best and to free humans from routine, error-prone tasks. The most cost-effective computer data processing system is the one that does the job effectively and at the least cost. By using computers in a cost-effective manner, we will be better able to respond to the challenges and opportunities of our post-industrial, information-dependent society. | Таким образом, важной целью при проектировании систем компьютерной обработки данных является предоставление компьютерам возможности делать то, что у них получается лучше всего, и освобождение людей от рутинных, подверженных ошибкам задач. Наиболее экономически эффективная система компьютерной обработки данных — это та, которая выполняет работу эффективно и с наименьшими затратами. Используя компьютеры экономически эффективным способом, мы сможем лучше реагировать на вызовы и возможности нашего постиндустриального, зависимого от информации общества. |
 
 ---
 
-## Производные от глаголов (упр. 5)
+### Exercises and Tests (Упражнения и тесты)
 
-| Глагол | Производные |
-|--------|------------|
-| to compute | computer, computation, computing, computable |
-| to invent | invention, inventor, inventive, inventory |
-| to know | knowledge, knowing, known, unknown |
-| to multiply | multiplication, multiplier, multiple, multiplicative |
-| to divide | division, divisor, divisible, dividend |
-| to depend | dependence, dependent, independent, dependency |
-| to solve | solution, solver, solvable, solving |
-| to provide | provision, provider, providing, provided |
-| to process | processing, processor, processable, procession |
-| to code | coding, coder, code, decoder, encode |
-| to punch | punching, puncher, punched |
-| to collect | collection, collector, collective, collectible |
-| to design | design, designer, designing, designed |
-| to store | storage, store, storing, stored |
-| to contribute | contribution, contributor, contributing |
-| to use | use, user, useful, usage, usable |
-| to manipulate | manipulation, manipulator, manipulative |
-| to assemble | assembly, assembler, assembled, assembling |
-| to connect | connection, connector, connected, connectable |
-| to consume | consumption, consumer, consumable |
-| to rely | reliance, reliable, reliability |
-| to inform | information, informative, informant, informed |
-| to instruct | instruction, instructor, instructive |
-| to discover | discovery, discoverer, discoverable |
-| to operate | operation, operator, operative, operational |
+#### 3. Просмотрите текст еще раз. Ответьте на вопросы, используя информацию текста 1.
+*(Review the text again. Answer the questions using information from Text 1.)*
+
+1.  **What is processing?**
+    *   *Processing is a series of actions or operations that convert inputs into outputs.*
+    *   (Обработка — это серия действий или операций, которые преобразуют входные данные в выходные.)
+2.  **What is data processing?**
+    *   *Data processing is a series of actions or operations that converts data into useful information.*
+    *   (Обработка данных — это серия действий или операций, которые преобразуют данные в полезную информацию.)
+3.  **What does the term of data processing system mean?**
+    *   *It means the resources that are used to accomplish the processing of data (people, materials, facilities, and equipment).*
+    *   (Это означает ресурсы, которые используются для выполнения обработки данных (люди, материалы, помещения и оборудование).)
+4.  **What basic operations does a data processing system include?**
+    *   *Inputting, storing, processing, outputting, and controlling.*
+    *   (Ввод, хранение, обработка, вывод и управление.)
+5.  **What is inputting / storing / outputting information?**
+    *   *Inputting is entering data; storing is saving data for future use; outputting is producing useful information.*
+    *   (Ввод — это введение данных; хранение — это сохранение данных для будущего использования; вывод — это создание полезной информации.)
+6.  **What do you understand by resources?**
+    *   *Resources are people, materials, facilities, and equipment.*
+    *   (Ресурсы — это люди, материалы, помещения и оборудование.)
+7.  **How did ancient Egyptians convert facts into useful information?**
+    *   *They recorded the ebb and flow of the Nile River to predict yearly crop yields.*
+    *   (Они записывали приливы и отливы Нила, чтобы прогнозировать ежегодные урожаи.)
+8.  **When were mechanical aids for computation developed?**
+    *   *Throughout the seventeenth, eighteenth, and nineteenth centuries.*
+    *   (На протяжении XVII, XVIII и XIX веков.)
+9.  **What does data storage hierarchy mean?**
+    *   *It means organizing and storing data in successively more comprehensive groupings.*
+    *   (Это означает организацию и хранение данных во все более общих группах.)
+10. **What are the general groupings of any data storage hierarchy?**
+    *   *Characters, data elements (fields), records, and files.*
+    *   (Символы, элементы данных (поля), записи и файлы.)
+
+#### 4. Найдите в тексте английские эквиваленты следующих словосочетаний:
+*(Find English equivalents in the text for the following phrases:)*
+
+*   Системы обработки информации — *Data processing systems*
+*   Определение (термина) обработки данных — *Definition of data processing*
+*   Совокупность фактов — *Collection of facts*
+*   Последовательность действий — *Series of actions*
+*   Преобразование входных данных в полезную информацию — *Convert inputs into outputs / Convert data into useful information*
+*   Включать ресурсы — *Include the resources*
+*   Завершить обработку данных — *Accomplish the processing of data*
+*   Обеспечивать ввод информации в компьютер — *Provide input to computers*
+*   Ленты принтера — *Printer ribbons*
+*   Расходовать в большом количестве — *Consumed in great quantity*
+*   Размещать компьютерное оборудование — *House the computer equipment*
+*   Нуждаться (требовать) в приспособлениях — *Facilities are required*
+*   Явление современной жизни — *Phenomenon of modern life*
+*   На протяжении доисторического периода — *Throughout prehistory*
+*   Превращать информацию в выражения — *Convert facts into useful information* (контекстуально: преобразовывать факты)
+*   Регистрировать отливы и приливы — *Recorded the ebb and flow*
+*   Прогнозировать урожай зерновых культур — *Predict yearly crop yields*
+*   Механические средства вычисления — *Mechanical aids to computation*
+*   Ввод данных — *Inputting*
+*   Хранение данных — *Storing*
+*   Первоначальная обработка данных — *Initial processing*
+*   Дополнительная обработка — *Additional processing*
+*   Выдача полезной информации — *Outputting / Producing useful information*
+*   Напечатанное сообщение — *Printed report*
+*   Зрительное отображение — *Visual display*
+*   Последовательность запоминания информации — *Data storage hierarchy*
+*   Записанные символы языка — *Written language symbols*
+*   Элементы информации — *Data elements*
+*   База данных — *Data base*
+*   Набор взаимосвязанных файлов — *Set of related files*
+
+#### 5. Переведите следующие цепочки существительных:
+*(Translate the following noun chains. Note: Translate from the end.)*
+
+*   **Data resource** — Ресурс данных
+*   **Storage resource** — Ресурс хранения (памяти)
+*   **Network resource** — Сетевой ресурс
+*   **Security resource** – Ресурс безопасности
+*   **System resource** — Системный ресурс
+*   **Communication facilities** — Средства связи
+*   **Data base facilities** — Средства работы с базой данных
+*   **Display facilities** — Средства отображения (дисплеи)
+*   **Management facilities** — Средства управления
+*   **Distance control** — Дистанционное управление
+*   **Device control** — Управление устройством
+*   **Keyboard control** — Клавиатурное управление
+*   **Position control** — Контроль позиции
+*   **Program control** — Управление программой
+*   **Computer storage** — Компьютерная память
+*   **Laser storage** — Лазерная память
+*   **File storage** — Файловое хранение
+*   **Disk storage** — Дисковая память
+*   **Data storage hierarchy** — Иерархия хранения данных
+*   **Character sequence** — Последовательность символов
+*   **Instruction sequence** — Последовательность команд
+*   **Message sequence** — Последовательность сообщений
+*   **Pulse sequence** — Последовательность импульсов
+*   **Batch file** — Пакетный файл
+*   **Catalog file** — Файл каталога
+*   **Data file** — Файл данных
+*   **Help file** — Файл справки
+*   **Input file** — Входной файл
+*   **Output file** — Выходной файл
+*   **Menu file** — Файл меню
+*   **User file** — Пользовательский файл
+*   **Command input** — Ввод команды
+*   **Data input** — Ввод данных
+*   **Disk input** — Ввод с диска
+*   **File input** — Ввод из файла
+*   **Keyboard input** — Ввод с клавиатуры
+*   **Program input** — Ввод программы
+
+#### 6. Подберите к терминам, данным в левой колонке, определения, представленные справа.
+*(Match the terms in the left column with the definitions on the right.)*
+
+1.  **Computer** — **g)** an electronic device performing calculations on numerical data; *(электронное устройство, выполняющее вычисления над числовыми данными)*
+2.  **Computer literacy** — **e)** possessing sufficient knowledge of how computers work and what they can do to use them as problem-solving tools; *(обладание достаточными знаниями о том, как работают компьютеры и что они могут делать, чтобы использовать их как инструменты решения проблем)*
+3.  **A program** — **a)** the set of instructions that direct the operations of computers; *(набор инструкций, направляющих операции компьютеров)*
+4.  **Data** — **c)** facts unorganized but able to be organized; *(факты неорганизованные, но способные быть организованными)*
+5.  **Data processing** — **f)** a series of operations that results in the conversion of data system into useful information; *(серия операций, результатом которой является преобразование данных системы в полезную информацию)*
+6.  **Data processing system** — **j)** the resources required to accomplish the processing of data. These resources are personnel, material, facilities and equipment. *(ресурсы, необходимые для выполнения обработки данных. Эти ресурсы — персонал, материалы, помещения и оборудование)*
+7.  **Input** — **b)** a part of a computer, entering data into the device; *(часть компьютера, вводящая данные в устройство)*
+8.  **Output** — **h)** an electronic device accepting the data processing results from the computer and displaying them; *(электронное устройство, принимающее результаты обработки данных от компьютера и отображающее их)*
+9.  **Useful information** — **d)** the output of a data processing system; *(выход системы обработки данных)*
+10. **Data bank** — **i)** a set of related files; *(набор связанных файлов)*
+
+#### 7. Проанализируйте неличные формы глагола и правильно переведите предложения.
+*(Analyze the non-finite verb forms and translate the sentences correctly.)*
+
+1.  **Data are processed to become useful information.**
+    *   *Данные обрабатываются, чтобы стать полезной информацией.* (Infinitive of purpose)
+2.  **We use the term data processing to include the resources applied for processing of information.**
+    *   *Мы используем термин «обработка данных», чтобы включить ресурсы, применяемые для обработки информации.* (Participle II "applied" defines "resources")
+3.  **Resources required for accomplishing the processing of data are called data processing system.**
+    *   *Ресурсы, требуемые для выполнения обработки данных, называются системой обработки данных.* (Participle II "required" defines "Resources")
+4.  **Processing is a series of operations converting inputs into outputs.**
+    *   *Обработка — это серия операций, преобразующих входные данные в выходные.* (Participle I "converting" defines "operations")
+5.  **Facilities are required to house the computer equipment.**
+    *   *Помещения требуются для размещения компьютерного оборудования.* (Infinitive of purpose)
+6.  **Egyptians used the information to predict crop yields.**
+    *   *Египтяне использовали информацию, чтобы прогнозировать урожай.* (Infinitive of purpose)
+7.  **Information to be put into the computer for processing should be coded into ones and zeroes.**
+    *   *Информация, которая должна быть помещена в компьютер для обработки, должна быть закодирована в единицы и нули.* (Passive Infinitive "to be put" defines "Information")
+8.  **Processing is operations on data to convert them into useful information.**
+    *   *Обработка — это операции над данными, чтобы преобразовать их в полезную информацию.* (Infinitive of purpose)
+9.  **The first machines designed to manipulate punched card data were widely used for business data processing.**
+    *   *Первые машины, разработанные для обработки данных на перфокартах, широко использовались для обработки деловой информации.* (Participle II "designed" defines "machines")
+10. **Hollerith built one machine to punch the holes and the other to tabulate the collected data.**
+    *   *Холлерит построил одну машину, чтобы пробивать отверстия, и другую, чтобы заносить собранные данные в таблицы.* (Infinitives of purpose)
+
+#### 8. Ознакомьтесь с терминами текста 2.
+*(Vocabulary list provided in the source text, already translated in the main table above. Key terms: manual - ручной, accuracy - точность, eliminate - устранять, error-prone - подверженный ошибкам, vulnerable - уязвимый, invalid data - неверные данные, capacity of storage - объем памяти, retrieve - извлекать, cost-effective - экономичный.)*
+
+#### 9. Прочтите текст и скажите, каковы основные достоинства компьютеров. Переведите текст.
+*(Read the text and say what the main advantages of computers are. Translate the text.)*
+*Translation is provided in the table for Text 2 above.*
+*Main advantages:* Accuracy (Точность), Ease of communications (Легкость связи), Capacity of storage (Емкость памяти), Speed (Скорость).
+
+#### 10. Ответьте на вопросы, используя информацию текста.
+*(Answer the questions using information from the text.)*
+
+1.  **What capabilities should data-processing systems combine when designed?**
+    *   *They should combine the capabilities of both humans and computers.*
+2.  **What are the main advantages of computers?**
+    *   *Accuracy, ease of communications, capacity of storage, and speed.*
+3.  **What do you know of computers accuracy?**
+    *   *Once data are entered correctly, human manipulation is eliminated, reducing errors. Computers rarely make computational errors if properly programmed, but are vulnerable to invalid human input.*
+4.  **What is the function of communication networks?**
+    *   *To transmit data wherever needed.*
+5.  **Give examples of a data communication network.**
+    *   *Travel reservations systems, office communications systems providing access to corporate databases.*
+6.  **What do you understand by capacity storage?**
+    *   *The ability of computers to store vast amounts of information, organize it, and retrieve it.*
+7.  **What other values of computer data processing systems do you know?**
+    *   *Speed of response adds to their value.*
+8.  **What is an important objective in the design of computer data processing systems?**
+    *   *To allow computers to do what they do best and free humans from routine, error-prone tasks.*
+9.  **What is the most effective computer data processing system?**
+    *   *The one that does the job effectively and at the least cost.*
+10. **What is the best way of responding to the challenges and opportunities of our post-industrial society?**
+    *   *By using computers in a cost-effective manner.*
+
+#### 11. Найдите в тексте английские эквиваленты следующих словосочетаний:
+*(Find English equivalents in the text for the following phrases:)*
+
+*   Система обработки информации компьютером — *Computer-oriented data processing systems*
+*   Система ориентирования на обработку данных компьютером — *Computer data processing systems*
+*   Сочетать возможности человека и машины — *Combine the capabilities of both humans and computers*
+*   Ограничивать управление — *Need for further manipulation ... is eliminated* (контекстуально: необходимость дальнейшего манипулирования устранена)
+*   Вряд ли допустят ошибку — *Unlikely to make computational errors*
+*   Оставаться уязвимым — *Remain vulnerable*
+*   Недопустимые данные — *Invalid data*
+*   Легкость осуществления связи — *Ease of communications*
+*   Сеть передачи информации — *Communications networks / Data communications network*
+*   Системы, основанные на использовании спутников — *Satellite-based systems*
+*   Служащие по резервированию жилья — *Reservation clerks*
+*   Получить мгновенный ответ — *Receive an almost instant response*
+*   Наводить справки — *Make an enquiry*
+*   Хранилище данных — *Reservoir of data / Corporate data base*
+*   Корпоративная база данных — *Corporate data base*
+*   Объем памяти — *Capacity of storage*
+*   Запоминать огромное количество информации — *Store vast amounts of information*
+*   Извлекать информацию — *Retrieve it*
+*   Добавить значимости — *Adds to their value*
+*   Упомянутый выше — *Mentioned above*
+*   Доля секунды — *Fraction of a second*
+*   Подверженный ошибкам — *Error-prone*
+*   Экономически оправданный — *Cost-effective*
+
+#### 12. Вспомните значение новых слов и догадайтесь о значении их производных.
+*(Recall the meaning of new words and guess the meaning of their derivatives.)*
+
+*   **To eliminate:** elimination (устранение), eliminable (устранимый), eliminator (устранитель), unlimited (неограниченный - *antonym root*).
+*   **To respond:** respondent (респондент/ответчик), response (ответ), responsible (ответственный), irresponsible (безответственный), responsibility (ответственность).
+*   **Accuracy:** inaccuracy (неточность), accurate (точный), inaccurate (неточный), accurately (точно).
+*   **Correctly:** correct (правильный), incorrect (неправильный), to correct (исправлять), correction (исправление), correctional (исправительный), corrective (корректирующий), corrector (корректор).
+*   **Vulnerable:** invulnerable (неуязвимый), vulnerability (уязвимость), invulnerability (неуязвимость).
+*   **Invalid:** valid (действительный/верный), invalidity (недействительность), validity (действительность).
+*   **Access:** accessible (доступный), inaccessible (недоступный), accessibility (доступность), inaccessibility (недоступность).
+
+#### 13. Преобразуйте предложения, содержащие модальные глаголы, в а) прошедшее время; б) будущее время.
+*(Transform sentences containing modal verbs into a) Past Tense; b) Future Tense.)*
+
+*Note: Modal verbs change as follows: can -> could (past) / will be able to (future); may -> might (past) / may (future); must -> had to (past) / will have to (future).*
+
+1.  **Computers can replace people in dull routine work.**
+    *   a) Computers **could** replace people...
+    *   b) Computers **will be able to** replace people...
+2.  **The program is a set of instructions that may also include data to be processed.**
+    *   a) ...that **might** also include...
+    *   b) ...that **may** also include... (или *might* для меньшей вероятности в будущем)
+3.  **Computer-controlled robots must increase the productivity of industry.**
+    *   a) ...**had to** increase...
+    *   b) ...**will have to** increase...
+4.  **They can help in making different decisions.**
+    *   a) They **could** help...
+    *   b) They **will be able to** help...
+5.  **The pupils may work with computers at the lessons.**
+    *   a) The pupils **might** work...
+    *   b) The pupils **may** work...
+6.  **Electric pulses can move at the speed of light.**
+    *   a) Electric pulses **could** move...
+    *   b) Electric pulses **will be able to** move...
+7.  **Storage devices must have capacities for the input, output data and programs and for intermediate results.**
+    *   a) Storage devices **had to** have...
+    *   b) Storage devices **will have to** have...
+8.  **Business minicomputers can perform to 100 million operations per second.**
+    *   a) Business minicomputers **could** perform...
+    *   b) Business minicomputers **will be able to** perform...
+9.  **In order to solve scientific problems researchers must deal with the language of science — mathematics.**
+    *   a) ...researchers **had to** deal with...
+    *   b) ...researchers **will have to** deal with...
+10. **Programmers must write application programs in a way that computers can understand.**
+    *   a) Programmers **had to** write... that computers **could** understand.
+    *   b) Programmers **will have to** write... that computers **will be able to** understand.
+
+#### 14. Составьте на русском языке аннотации к текстам, предложенным ниже.
+*(Write abstracts in Russian for the texts below. Use the suggested clichés.)*
+
+**Text 1: The ENIAC (1943-1946)**
+
+> **Аннотация к тексту «ENIAC»**
+>
+> Текст посвящен истории создания первого полностью электронного компьютера ENIAC. В начале статьи речь идет о причинах разработки машины, обусловленных военной необходимостью расчета таблиц стрельбы для нового оружия. Далее описываются технические характеристики ENIAC: его вес, количество вакуумных ламп и потребляемая мощность. Отмечается, что, несмотря на полную электронизацию, машина имела существенные недостатки: ограниченный объем памяти и жесткую проводную программу, что затрудняло изменение задач и поиск ошибок. В заключение приводится пример успешного применения ENIAC для решения баллистических задач в течение многих лет.
+
+**Text 2: The EDVAC (1946-1952)**
+
+> **Аннотация к тексту «EDVAC»**
+>
+> Статья рассказывает о развитии концепции автоматических вычислительных машин после Чарльза Бэббиджа. Особое внимание уделяется вкладу Джона фон Неймана в проект EDVAC. Автор указывает на ключевое нововведение: принцип хранения программ и данных в памяти компьютера, что позволило отказаться от трудоемкой перепрограммировки посредством коммутации проводов, характерной для ENIAC. Также отмечается идея использования двоичного кода для хранения инструкций и данных, что упростило конструкцию компьютера. Подытоживая сказанное, следует отметить, что принципы, заложенные фон Нейманом, определили архитектуру современных компьютеров.
+
+**Text 3: The UNIVAC I (1951)**
+
+> **Аннотация к тексту «UNIVAC I»**
+>
+> Текст посвящен появлению первого коммерческого компьютера UNIVAC I. В статье описывается история его создания компанией Эккерта и Мошли после их ухода из проекта EDVAC. Сообщается, что первый UNIVAC был установлен в Бюро переписи населения США в 1951 году и эксплуатировался 10 лет. Автор подчеркивает, что UNIVAC I стал первым цифровым компьютером, выпускавшимся серийно, а не в единственном экземпляре. Далее упоминается появление коммерческих компьютеров IBM (модели 701 и 650), которые также нашли широкое применение в бизнесе и науке. Думается, статья может оказаться полезной для понимания перехода компьютерной техники из лабораторий в широкий коммерческий оборот.
+
+#### 15. Поменяйтесь вариантами и выполните письменно перевод предложенных выше текстов.
+*(Exchange variants and translate the texts above in writing.)*
+
+**Translation of Text 1: The ENIAC (1943-1946)**
+
+Первый полностью электронный компьютер, Электронный числовой интегратор и калькулятор (ENIAC), был разработан в Школе электротехники Мура Пенсильванского университета. Он был разработан в результате военной необходимости. Дж. Преспер Эккерт и Джон Мокли предложили машину для решения проблемы расчета таблиц стрельбы для нового оружия.
+ENIAC весил 90 тонн, его 18 000 вакуумных ламп потребляли 140 киловатт электроэнергии. Хотя он был полностью электронным, у ENIAC было два основных недостатка: он мог хранить и обрабатывать только очень ограниченный объем информации, а его программы были смонтированы на плате. Поскольку его программы были «жестко wired» (то есть программы, управляющие компьютером, устанавливались путем физического изменения схемы проводов, соединяющих вакуумные лампы), машина не была гибкой в эксплуатации. Эти ограничения затрудняли обнаружение ошибок и изменение программ. И все же проект был успешным, и ENIAC использовался в течение многих лет для решения баллистических задач.
+
+**Translation of Text 2: The EDVAC (1946-1952)**
+
+Хотя идея автоматической вычислительной машины впервые пришла в голову Чарльзу Бэббиджу в 1832 году, прошло более столетия, прежде чем в 1945 году Джон фон Нейман изложил принципы, которые закрепили образец проектирования компьютеров.
+Доктор Джон фон Нейман, профессор математики в Институте перспективных исследований в Принстоне, вместе с П. Эккертом, Дж. Мокли и Голдстайном стал участником проекта нового улучшенного компьютера, Электронного дискретного переменного компьютера (EDVAC). Фон Нейман внес основной вклад в проект, поскольку он разработал концепцию хранения инструкций, а также данных в памяти компьютера. В результате стало возможным заменить коммутационную панель, которая так серьезно затрудняла работу ENIAC.
+Фон Нейману также приписывают часть заслуги за внедрение идеи хранения как инструкций, так и данных в двоичном коде вместо десятичных чисел или читаемых человеком слов.
+
+**Translation of Text 3: The UNIVAC I (1951)**
+
+П. Эккерт и Дж. Мокли покинули проект EDVAC, чтобы создать свою собственную компанию, и построили компьютер UNIVAC I. UNIVAC расшифровывается как Universal Automatic Computer (Универсальный автоматический компьютер). Первый UNIVAC был установлен в Бюро переписи населения в 1951 году и непрерывно использовался в течение 10 лет. Из университетских лабораторий компьютер наконец вышел в широкий мир в 1951 году с изобретением первого UNIVAC I. Это был первый цифровой компьютер, который не был «единственным в своем роде», он производился серийно.
+В 1952 году IBM (International Business Machine) представила коммерческий компьютер 701. Хотя по современным стандартам его емкость памяти была ограничена, 701 мог сложить столбец из 10-значных чисел высотой с Эмпайр-стейт-билдинг за одну секунду. Очень скоро появились улучшенные модели UNIVAC I и другие машины серии 701. В 1953 году IBM выпустила IBM 650, которая использовала магнитный барабан для хранения данных и была популярна в бизнесе и науке.
 
 ---
 
-## Перевод словосочетаний с причастиями (упр. 6)
-
-### А. Причастие I (Participle I)
-
-| Английское словосочетание | Перевод |
-|--------------------------|---------|
-| Computers using vacuum tubes | Компьютеры, использующие электронные лампы |
-| the machine calculating mathematical problems | машина, вычисляющая математические задачи |
-| the computer keeping instructions in its memory | компьютер, хранящий команды в своей памяти |
-| binary code storing data and instructions | двоичный код, хранящий данные и команды |
-| the vacuum tube controlling and amplifying electronic signals | электронная лампа, управляющая и усиливающая электронные сигналы |
-| computers performing computations in milliseconds | компьютеры, выполняющие вычисления за миллисекунды |
-| electronic pulses moving at the speed of light | электронные импульсы, движущиеся со скоростью света |
-| students coding the information by using a binary code | студенты, кодирующие информацию с помощью двоичного кода |
-| devices printing the information | устройства, печатающие информацию |
-| keyboard terminals replacing vacuum tubes | клавишные терминалы, заменяющие электронные лампы |
-
-### Б. Причастие II (Participle II)
-
-| Английское словосочетание | Перевод |
-|--------------------------|---------|
-| The given information | Данная информация |
-| the name given to the machine | название, данное машине |
-| the coded data | закодированные данные |
-| the device used in World War II | устройство, использовавшееся во Второй мировой войне |
-| the invention named ENIAC | изобретение, названное ENIAC |
-| the machine called EDVAC | машина, названная EDVAC |
-| instructions kept in the memory | команды, хранящиеся в памяти |
-| the engine designed for storing data | машина, спроектированная для хранения данных |
-| data stored in a binary code | данные, хранящиеся в двоичном коде |
-| vacuum tubes invented by J. Neumann | электронные лампы, изобретённые Дж. Нейманом |
-| the general-purpose machine proposed by Ch. Babbage | универсальная машина, предложенная Ч. Бэббиджем |
-| the machine provided with the necessary facts | машина, снабжённая необходимыми фактами |
-
----
-
-## Текст 2. THE FIRST COMPUTERS
-
-| Original Text | Перевод |
-|--------------|---------|
-| In 1930 the first analog computer was built by American named Vannevar Bush. This device was used in World War II to help aim guns. | В 1930 году первый аналоговый компьютер был построен американцем по имени Ванневар Буш. Это устройство использовалось во Второй мировой войне для помощи в наведении орудий. |
-| Many technical developments of electronic digital computers took place in the 1940s and 1950s. Mark I, the name given to the first digital computer, was completed in 1944. The man responsible for this invention was Professor Howard Aiken. This was the first machine that could figure out long lists of mathematical problems at a very fast rate. | Многие технические усовершенствования электронных цифровых компьютеров произошли в 1940-х и 1950-х годах. Mark I — название, данное первому цифровому компьютеру, — был завершён в 1944 году. Человеком, ответственным за это изобретение, был профессор Говард Айкен. Это была первая машина, которая могла вычислять длинные списки математических задач с очень высокой скоростью. |
-| In 1946 two engineers at the University of Pennsylvania, J.Eckert and J.Mauchly, built their digital computer with vacuum tubes. They named their new invention ENIAC (the Electronic Numerical Integrator and Calculator). | В 1946 году два инженера из Университета Пенсильвании, Дж. Эккерт и Дж. Моучли, построили свой цифровой компьютер с электронными лампами. Они назвали своё новое изобретение ENIAC (Electronic Numerical Integrator and Calculator — Электронный числовой интегратор и вычислитель). |
-| Another important achievement in developing computers came in 1947, when John von Neumann developed the idea of keeping instructions for the computer inside the computer's memory. The contribution of John von Neumann was particularly significant. As contrasted with Babbage's analytical engine, which was designed to store only data, von Neumann's machine, called the Electronic Discrete Variable Computer, or EDVAC, was able to store both data and instructions. He also contributed to the idea of storing data and instructions in a binary code that uses only ones and zeros. This simplified computer design. Thus computers use two conditions, high voltage, and low voltage, to translate the symbols by which we communicate into unique combinations of electrical pulses. We refer to these combinations as codes. | Ещё одно важное достижение в развитии компьютеров произошло в 1947 году, когда Джон фон Нейман разработал идею хранения команд для компьютера внутри памяти компьютера. Вклад Джона фон Неймана был особенно значительным. В отличие от аналитической машины Бэббиджа, которая была спроектирована для хранения только данных, машина фон Неймана, названная Electronic Discrete Variable Computer, или EDVAC, могла хранить как данные, так и команды. Он также внёс вклад в идею хранения данных и команд в двоичном коде, который использует только единицы и нули. Это упростило конструкцию компьютера. Таким образом, компьютеры используют два состояния — высокое напряжение и низкое напряжение — для преобразования символов, с помощью которых мы общаемся, в уникальные комбинации электрических импульсов. Мы называем эти комбинации кодами. |
-| Neumann's stored program computer as well as other machines of that time were made possible by the invention of the vacuum tube that could control and amplify electronic signals. Early computers, using vacuum tubes, could perform computations in thousandths of seconds, called milliseconds, instead of seconds required by mechanical devices. | Компьютер фон Неймана с хранимой программой, а также другие машины того времени стали возможны благодаря изобретению электронной лампы, которая могла управлять электронными сигналами и усиливать их. Ранние компьютеры, использовавшие электронные лампы, могли выполнять вычисления за тысячные доли секунды, называемые миллисекундами, вместо секунд, требовавшихся механическим устройствам. |
-
----
-
-## Ответы на вопросы к тексту 2 (упр. 9)
-
-1. **When was the first analog computer built?**
-   - The first analog computer was built in 1930.
-
-2. **Where and how was that computer used?**
-   - It was used in World War II to help aim guns.
-
-3. **When did the first digital computers appear?**
-   - The first digital computers appeared in the 1940s.
-
-4. **Who was the inventor of the first digital computer?**
-   - Professor Howard Aiken was responsible for the first digital computer, Mark I.
-
-5. **What could that device do?**
-   - It could figure out long lists of mathematical problems at a very fast rate.
-
-6. **What is ENIAC? Decode the word.**
-   - ENIAC stands for Electronic Numerical Integrator and Calculator.
-
-7. **What was J. Neumann's contribution into the development of computers?**
-   - He developed the idea of storing instructions inside the computer's memory and contributed to using binary code for storing data and instructions.
-
-8. **What were the advantages of EDVAC in comparison with ENIAC?**
-   - EDVAC could store both data and instructions, while earlier machines stored only data.
-
-9. **What does binary code mean?**
-   - Binary code uses only ones and zeros to represent data and instructions.
-
-10. **Due to what invention could the first digital computers be built?**
-    - The first digital computers were made possible by the invention of the vacuum tube.
-
----
-
-## Английские эквиваленты (упр. 10)
-
-| Русское словосочетание | Английский эквивалент |
-|----------------------|----------------------|
-| Цифровые компьютеры | digital computers |
-| Технические усовершенствования | technical developments |
-| Совершенствование компьютеров | developing computers |
-| Ответственный за изобретение | responsible for this invention |
-| Математические задачи | mathematical problems |
-| Электронные трубки | vacuum tubes |
-| Важное достижение | important achievement |
-| Запоминающее устройство | computer's memory |
-| Значительный вклад | particularly significant contribution |
-| Двоичный код | binary code |
-| Высокое напряжение | high voltage |
-| Низкое напряжение | low voltage |
-| Электрические импульсы | electrical pulses |
-| Тысячная доля секунды | thousandths of seconds / milliseconds |
-| Происходить | took place |
-| Завершать | was completed |
-| Вычислять | figure out |
-| Хранить команды внутри компьютера | keeping instructions inside the computer's memory |
-| Запоминать информацию | store data |
-| Запоминать команды | store instructions |
-| Содействовать | contributed to |
-| Использовать единицу и ноль | uses only ones and zeros |
-| Упрощать дизайн | simplified computer design |
-| Усиливать сигналы | amplify electronic signals |
-| Выполнять вычисления | perform computations |
-
----
-
-## Подбор синонимов (упр. 11)
-
-### Verbs
-| Слово | Синонимы |
-|-------|---------|
-| to name | to call |
-| to complete | to finish |
-| to calculate | to figure out, to compute, to perform |
-| to develop | to build, to construct |
-| to keep | to store |
-| to interpret | to translate |
-| to communicate | — |
-| to fulfill | to perform, to carry out |
-| to apply | to use |
-| to translate | to interpret |
-| to improve | — |
-| to build | to construct, to develop |
-| to call | to name |
-| to store | to keep |
-| to figure out | to calculate, to compute |
-| to perform | to fulfill, to carry out, to calculate |
-| to use | to apply |
-| to finish | to complete |
-| to construct | to build, to develop |
-| to connect | — |
-
-### Nouns
-| Слово | Синонимы |
-|-------|---------|
-| speed | rate |
-| aim | purpose |
-| storage | memory |
-| information | data |
-| machine | device |
-| significance | importance |
-| computation | calculation |
-| data | information |
-| device | machine |
-| rate | speed |
-| calculation | computation |
-| purpose | aim |
-| memory | storage |
-| importance | significance |
-
----
-
-## Заполнение пропусков (упр. 12)
-
-1. The first digital computer could **figure out** a lot of mathematical problems at a fast **rate**.
-2. Vannevar Bush built the first **analog** computer in 1930.
-3. Babbage's analytical engine was designed to **store** data.
-4. J. von Neumann invented a machine that was able to **store** not only data but also **instructions**.
-5. Neumann **contributed** the idea of storing data in a **binary code**.
-6. Computers use two conditions for **translating** symbols.
-7. The invention of **vacuum tubes** made computers possible to control and **amplify** electronic signals.
-8. Due to **vacuum tubes** computers could perform **computations** much faster.
-
----
-
-## Перевод предложений с инфинитивом (упр. 13)
-
-### А. Инфинитив в функции обстоятельства
-
-1. **Computers were designed to perform thousands of computations per second.**
-   - Компьютеры были разработаны для выполнения тысяч вычислений в секунду.
-
-2. **To make computers more reliable transistors were used.**
-   - Чтобы сделать компьютеры более надёжными, использовались транзисторы.
-
-3. **They were applied to reduce computational time.**
-   - Они применялись для сокращения времени вычислений.
-
-4. **To integrate large numbers of circuit elements into a small chip, transistors should be reduced in size.**
-   - Чтобы интегрировать большое количество элементов схемы в маленький чип, транзисторы должны быть уменьшены в размерах.
-
-5. **To use integrated circuit technology new computers were built.**
-   - Чтобы использовать технологию интегральных схем, были построены новые компьютеры.
-
-6. **Analytical engine was invented to store data.**
-   - Аналитическая машина была изобретена для хранения данных.
-
-### Б. Инфинитив в функции определения
-
-| Английское словосочетание | Перевод |
-|--------------------------|---------|
-| The problem to be solved | Задача, которую нужно решить |
-| the work to be finished | Работа, которую нужно завершить |
-| the cards to be punched | Карты, которые нужно пробить |
-| calculations to be performed | Вычисления, которые нужно выполнить |
-| the machine to be shown at the exhibition | Машина, которую нужно показать на выставке |
-| the device to be provided with the necessary facts | Устройство, которое нужно снабдить необходимыми фактами |
-| computers to be used for data processing | Компьютеры, которые будут использоваться для обработки данных |
-| efforts to increase reliability | Усилия по повышению надёжности |
-| electronics to connect systems and subsystems | Электроника для соединения систем и подсистем |
-| the speed of response to depend on the size of transistor | Скорость реакции, зависящая от размера транзистора |
-| computers to perform thousands of calculations per second | Компьютеры для выполнения тысяч вычислений в секунду |
-| vacuum tubes to control and amplify electric signals | Электронные лампы для управления и усиления электрических сигналов |
-| these are circuits to use a large number of transistors | это схемы, в которых используется большое количество транзисторов |
-| operations to be performed | Операции, которые нужно выполнить |
-
----
-
-## Текст 3. SOME FIRST COMPUTER MODELS
-
-### Part 1: Babbage's Analytical Engine
-
-| Original Text | Перевод |
-|--------------|---------|
-| In 1832, an English inventor and mathematician Charles Babbage was commissioned by the British government to develop a system for calculating the rise and fall of the tides. | В 1832 году английский изобретатель и математик Чарльз Бэббидж получил от британского правительства заказ на разработку системы для расчёта приливов и отливов. |
-| Babbage designed a device and called it an analytical engine. It was the first programmable computer, complete with punched cards for data input. Babbage gave the engine the ability to perform different types of mathematical operations. The machine was not confined to simple addition, subtraction, multiplication, or division. It had its own "memory", due to which the machine could use different combinations and sequences of operations to suit the purposes of the operator. | Бэббидж спроектировал устройство и назвал его аналитической машиной. Это был первый программируемый компьютер, оснащённый перфокартами для ввода данных. Бэббидж наделил машину способностью выполнять различные типы математических операций. Машина не ограничивалась простым сложением, вычитанием, умножением или делением. У неё была собственная «память», благодаря которой машина могла использовать различные комбинации и последовательности операций в соответствии с целями оператора. |
-| The machine of his dream was never realized in his life. Yet Babbage's idea didn't die with him. Other scientists made attempts to build mechanical, general-purpose, stored-program computers throughout the next century. In 1941 a relay computer was built in Germany by Conrad Zuse. It was a major step toward the realization of Babbage's dream. | Машина его мечты так и не была реализована при его жизни. Однако идея Бэббиджа не умерла вместе с ним. Другие учёные предпринимали попытки построить механические универсальные компьютеры с хранимой программой на протяжении следующего столетия. В 1941 году в Германии Конрадом Цузе был построен релейный компьютер. Это стало важным шагом к осуществлению мечты Бэббиджа. |
-
-### Part 2: The Mark I Computer (1937-1944)
-
-| Original Text | Перевод |
-|--------------|---------|
-| In 1944 in the United States, International Business Machines (IBM) built a machine in cooperation with scientists working at Harvard University under the direction of Prof. Aiken. The machine, called Mark I Automatic Sequence-Controlled Calculator, was built to perform calculations for the Manhattan Project, which led to the development of atomic bomb. It was the largest electromechanical calculator ever built. It used over 3000 electrically actuated switches to control its operations. Although its operations were not controlled electronically, Aiken's machine is often classified as a computer because its instructions, which were entered by means of a punched paper tape, could be altered. The computer could create ballistic tables used by naval artillery. | В 1944 году в Соединённых Штатах компания International Business Machines (IBM) построила машину в сотрудничестве с учёными, работавшими в Гарвардском университете под руководством профессора Айкена. Машина, названная Mark I Automatic Sequence-Controlled Calculator, была построена для выполнения вычислений для Манхэттенского проекта, который привёл к созданию атомной бомбы. Это был самый большой электромеханический калькулятор из когда-либо построенных. Для управления своими операциями он использовал более 3000 электрически приводимых в действие переключателей. Хотя его операции не управлялись электронным способом, машина Айкена часто классифицируется как компьютер, потому что её команды, которые вводились с помощью перфорированной бумажной ленты, могли изменяться. Компьютер мог создавать баллистические таблицы, используемые военно-морской артиллерией. |
-| The relay computer had its problems. Since relays are electromechanical devices, the switching contacts operate by means of electromagnets and springs. They are slow, very noisy and consume a lot of power. | У релейного компьютера были свои проблемы. Поскольку реле являются электромеханическими устройствами, переключающие контакты работают с помощью электромагнитов и пружин. Они медленные, очень шумные и потребляют много энергии. |
-
-### Part 3: The ABC (1939-1942)
-
-| Original Text | Перевод |
-|--------------|---------|
-| The work on introducing electronics into the design of computers was going on. | Работа по внедрению электроники в конструкцию компьютеров продолжалась. |
-| The gadget that was the basis for the first computer revolution was the vacuum tube, an electronic device invented early in the twentieth century. The vacuum tube was ideal for use in computers. It had no mechanical moving parts. It switched flows of electrons off and on at rates far faster than possible with any mechanical device. It was relatively reliable, and operated hundreds of hours before failure. The first vacuum tube computer was built at Iowa University at about the same time as the Mark I. The computer, capable to perform thousands of related computations, was called ABC, the Atanasoff-Berry Computer, after Dr. John Atanasoff, a professor of physics and his assistant, Clifford Berry. It used 45 vacuum tubes for internal logic and capacitors for storage. From the ABC a number of vacuum-tube digital computers developed. | Устройством, которое легло в основу первой компьютерной революции, была электронная лампа — электронное устройство, изобретённое в начале двадцатого века. Электронная лампа была идеальна для использования в компьютерах. У неё не было механических движущихся частей. Она переключала потоки электронов включение/выключение со скоростью, намного превышающей возможности любого механического устройства. Она была относительно надёжной и работала сотни часов до отказа. Первый компьютер на электронных лампах был построен в Университете Айовы примерно в то же время, что и Mark I. Компьютер, способный выполнять тысячи связанных вычислений, был назван ABC — Atanasoff-Berry Computer — в честь доктора Джона Атанасоффа, профессора физики, и его ассистента Клиффорда Берри. Он использовал 45 электронных ламп для внутренней логики и конденсаторы для хранения данных. На основе ABC было разработано несколько цифровых компьютеров на электронных лампах. |
-| Soon the British developed a computer with vacuum tubes and used it to decode German messages. | Вскоре британцы разработали компьютер с электронными лампами и использовали его для декодирования немецких сообщений. |
-
----
-
-## Текст 4. FOUR GENERATIONS OF COMPUTERS
-
-| Original Text | Перевод |
-|--------------|---------|
-| The first vacuum tubes computers are referred to as first generation computers, and the approximate period of their use was from 1950 to 1959. UNIVAC 1 (UNIVersal Automatic Computer) is an example of these computers which could perform thousands of calculations per second. Those devices were not only bulky, they were also unreliable. The thousands of vacuum tubes emitted large amounts of heat and burned out frequently. | Первые компьютеры на электронных лампах называются компьютерами первого поколения, и приблизительный период их использования составлял с 1950 по 1959 год. Примером таких компьютеров является UNIVAC 1 (UNIVersal Automatic Computer), который мог выполнять тысячи вычислений в секунду. Эти устройства были не только громоздкими, но и ненадёжными. Тысячи электронных ламп выделяли большое количество тепла и часто перегорали. |
-| The transistor, a smaller and more reliable successor to the vacuum tube, was invented in 1948. So-called second generation computers, which used large numbers of transistors were able to reduce computational time from milliseconds to microseconds, or millionths of seconds. Second-generation computers were smaller, faster and more reliable than first-generation computers. | Транзистор — меньший и более надёжный преемник электронной лампы — был изобретён в 1948 году. Так называемые компьютеры второго поколения, которые использовали большое количество транзисторов, смогли сократить время вычислений с миллисекунд до микросекунд, или миллионных долей секунды. Компьютеры второго поколения были меньше, быстрее и надёжнее компьютеров первого поколения. |
-| Advances in electronics technology continued, and microelectronics made it possible to reduce the size of transistors and integrate large numbers of circuit elements into very small chips of silicon. The computers that were designed to use integrated circuit technology were called third generation computers, and the approximate time span of these machines was from 1960 to 1979. They could perform many data processing operations in nanoseconds, which are billionths of seconds. | Достижения в области электронной технологии продолжались, и микроэлектроника сделала возможным уменьшение размеров транзисторов и интеграцию большого количества элементов схемы в очень маленькие кремниевые чипы. Компьютеры, которые были спроектированы для использования технологии интегральных схем, назывались компьютерами третьего поколения, и приблизительный период их использования составлял с 1960 по 1979 год. Они могли выполнять множество операций обработки данных за наносекунды, которые составляют миллиардные доли секунды. |
-| Fourth generation computers have now arrived, and the integrated circuits that are being developed have been greatly reduced in size. This is due to microminiaturization, which means that the circuits are much smaller than before; as many as 100 tiny circuits are placed now on a single chip. A chip is a square or rectangular piece of silicon, usually from 1/10 to 1/4 inch, upon which several layers of an integrated circuit are etched or imprinted, after which the circuit is encapsulated in plastic or metal. | Компьютеры четвёртого поколения уже появились, и разрабатываемые интегральные схемы значительно уменьшились в размерах. Это стало возможным благодаря микроминиатюризации, что означает, что схемы стали намного меньше, чем раньше; до 100 крошечных схем размещаются теперь на одном чипе. Чип — это квадратный или прямоугольный кусок кремния, обычно размером от 1/10 до 1/4 дюйма, на котором вытравливаются или наносятся несколько слоёв интегральной схемы, после чего схема герметизируется в пластике или металле. |
-
----
-
-## Краткое содержание текста 4 (упр. 16)
-
-### а) На русском языке:
-Текст описывает четыре поколения компьютеров. Первое поколение (1950-1959) использовало электронные лампы: компьютеры были громоздкими и ненадёжными. Второе поколение (после 1948) применяло транзисторы, что сделало компьютеры меньше, быстрее и надёжнее. Третье поколение (1960-1979) использовало интегральные схемы, позволяя выполнять операции за наносекунды. Четвёртое поколение характеризуется микроминиатюризацией: до 100 схем размещаются на одном кремниевом чипе.
-
-### б) In English:
-The text describes four generations of computers. The first generation (1950-1959) used vacuum tubes: computers were bulky and unreliable. The second generation (after 1948) employed transistors, making computers smaller, faster, and more reliable. The third generation (1960-1979) used integrated circuits, enabling operations in nanoseconds. The fourth generation is characterized by microminiaturization: up to 100 circuits are now placed on a single silicon chip.
-
----
-
-## TESTS — Ответы
-
-### Тест 1. Вставьте необходимые слова
-
-| № | Вопрос | Правильный ответ |
-|---|---------|-----------------|
-| 1 | British scientists invented a ___ way of multiplying and dividing. | a) mechanical |
-| 2 | A new branch of mathematics, ___, was invented in England and Germany independently. | c) calculus |
-| 3 | A young American clerk invented a means of coding ___ by punched cards. | b) data |
-| 4 | Soon punched cards were replaced by ___ terminals. | c) keyboard |
-| 5 | Mark I was the first ___ computer that could solve mathematical problems. | b) digital |
-| 6 | J. von Neumann simplified his computer by storing information in a ___ code. | c) binary |
-| 7 | Vacuum tubes could control and ___ electric signals. | b) amplify |
-| 8 | The first generation computers were ___ and often burned out. | c) unreliable |
-| 9 | Computers of the second generation used ___ which reduced computational time greatly. | a) transistors |
-| 10 | Due to ___ the development of the fourth generation computers became possible. | c) microminiaturization |
-
-### Тест 2. Выберите правильный перевод
-
-1. ✅ **б)** То была машина, снабженная необходимой информацией о задаче, которую предстояло решить.
-
-2. ✅ **в)** Компьютеры, сконструированные, чтобы использовать ИС, назывались компьютерами третьего поколения.
-
-3. ✅ **б)** Марк I явилась первой машиной для вычисления математических задач.
-
-4. ✅ **а)** Первые компьютеры, использующие электронные лампы, могли выполнять вычисления в течение миллисекунд.
-
-5. ✅ **б)** Нойман изобрел электронные лампы для управления и усиления электрических сигналов.
-
-6. ✅ **б)** Машина Ноймана, названная EDVAC, была создана, чтобы запоминать как информацию, так и команды.
-
-7. ✅ **а)** Компьютеры были созданы, чтобы выполнять вычисления для военных и научных целей.
-
-8. ✅ **в)** Американский служащий изобрел средство шифрования информации путем пробивания отверстий в карте.
-
----
-
-> **Примечание:** Все задания из Unit 3 выполнены. Тексты представлены в табличном формате с параллельным переводом, как требовалось. Если нужны дополнительные пояснения или форматирование — сообщите, Полина.
+### TESTS (Тесты)
+
+#### 1. Подберите вместо пропусков подходящее по смыслу слово
+*(Choose the word that fits the meaning instead of the blanks)*
+
+1.  Computer data **processing** system frees humans from routine error-prone tasks.
+    *   **Ответ: c) processing**
+2.  Computers can store vast amount of information to organize it and **retrieve** it.
+    *   **Ответ: b) to retrieve**
+3.  The entered data can be transmitted by **communications** networks.
+    *   **Ответ: a) communications**
+4.  The possibility of **error** is reduced if data were correctly put into the data processing system.
+    *   **Ответ: c) error**
+5.  Computer data processing systems can **respond** at a fraction of a second.
+    *   **Ответ: b) respond**
+6.  Computer systems are vulnerable to the entry of **invalid** data.
+    *   **Ответ: a) invalid**
+7.  As soon as data were entered into the system correctly, the human **manipulation** is limited.
+    *   **Ответ: c) manipulation**
+8.  The amount of data stored on magnetic discs is constantly **increasing**.
+    *   **Ответ: b) increasing**
+
+#### 2. Согласуйте слова в левой колонке с их интерпретацией, предложенной справа.
+*(Match the words in the left column with their interpretation offered on the right.)*
+
+1.  **Inputting** — **j)** the process of entering collected [data] into a data processing system;
+2.  **Character** — **g)** a written language symbol;
+3.  **Database** — **i)** a set of related facts; *(Примечание: в оригинале определения неточны, база данных - это набор связанных файлов, но здесь i - наиболее близко по смыслу "набор фактов/данных")*
+4.  **Data elements** — **c)** meaningful collections of related characters;
+5.  **Controlling** — **f)** directing the sequence of the operations performed;
+6.  **Outputting** — **b)** the process of producing useful information;
+7.  **Memory** — **e)** the part of the computer that receives and stores data for processing;
+8.  **Record** — **h)** a collection of related data elements
+9.  **Keyboard** — **d)** the most common input device;
+10. **Storing** — **a)** saving information for further processing;
